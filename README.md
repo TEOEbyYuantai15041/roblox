@@ -1,2 +1,2 @@
-# 这是个中文项目 英文下个版本会更新
-# this is a chinese projects english coming soon
+# we have website :)
+# 我们有网站了 :)
